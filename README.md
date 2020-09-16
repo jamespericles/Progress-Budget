@@ -8,7 +8,6 @@
 ### [Usage](#Usage)
 ### [License](#License)
 ### [Contributing](#Contributing)
-### [Questions](#Questions)
 ### [Github](#Github)
 ---
 ### <a name="Description"></a>Description
@@ -43,9 +42,5 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ### <a name="Contributing"></a>Contributing
 I can be contacted at jamesspericles@gmail.com with any questions regarding this project or the license it is under.
-
-
-### <a name="Questions"></a>Questions
-jamesspericles@gmail.com
 ### <a name="Github"></a>Github
-This project can be found [here](https://github.com/jamespericles/Progessive-Budget)
+This project can be found [here](https://github.com/jamespericles/Progessive-Budget).
