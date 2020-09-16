@@ -14,7 +14,7 @@
 ### <a name="Description"></a>Description
 Progressive Budget is a simple budgeting application that utilizes JavaScript, Node, Express, and IndexedDB to cache user's inputs in the event that they lose connection to the server. While not a super common problem, it is more a demonstration of what IndexedDB can do, and is definitely a convenient feature to have.
 ### <a name="Screenshots"></a>Screenshots
-WIP
+![lots_of_beans](https://github.com/jamespericles/Progressive-Budget/blob/master/screenshots/Lots_of_beans.png)
 ### <a name="Installation"></a>Installation
 This project can be installed to your local machine if interested. If you'd like to do so, be sure to run `npm i` within the root directory of this file, `server.js` can then be opened using node, which will launch the application on `port:3000`. Otherwise, the application is deployed [here](https://progressive-budget--app.herokuapp.com/)
 ### <a name="Usage"></a>Usage
