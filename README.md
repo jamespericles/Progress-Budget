@@ -15,7 +15,7 @@ Progressive Budget is a simple budgeting application that utilizes JavaScript, N
 ### <a name="Screenshots"></a>Screenshots
 ![lots_of_beans](https://github.com/jamespericles/Progressive-Budget/blob/master/screenshots/Lots_of_beans.png)
 ### <a name="Installation"></a>Installation
-This project can be installed to your local machine if interested. If you'd like to do so, be sure to run `npm i` within the root directory of this file, `server.js` can then be opened using node, which will launch the application on `port:3000`. Otherwise, the application is deployed [here](https://progressive-budget--app.herokuapp.com/)
+This project can be installed to your local machine if interested. If you'd like to do so, be sure to run `npm i` within the root directory of this file, `server.js` can then be opened using node, which will launch the application on `port:3000`. Otherwise, the application is deployed [here.](https://progressive-budget--app.herokuapp.com/)
 ### <a name="Usage"></a>Usage
 Progressive Budget can be used in lieu of other budgeting applications. Besides being very simple, it offers a chart that is updated live to help visualize the user's finances. Given that the project is open source, anyone interested could also add more functionallity if they are interested.
 ### <a name="License"></a>License
